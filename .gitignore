@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.webcraft/shots/
+node_modules/
